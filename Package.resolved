@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SKBashTask",
+        "repositoryURL": "https://github.com/kstefanou52/SKBashTask.git",
+        "state": {
+          "branch": "master",
+          "revision": "6e4d8a0b1558d30519e6e6965f53fac0acae3060",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
